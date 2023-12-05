@@ -8,6 +8,8 @@ Able to utilize my skills and experience to develop efficient and scalable code 
 
 My Skills:
 HTML,HTML5
+https://img.shields.io/badge/:badgeContent
+
 Angular
 Vue js 
 JavaScript
