@@ -8,7 +8,8 @@ Able to utilize my skills and experience to develop efficient and scalable code 
 
 My Skills:
 HTML,HTML5
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
+<i class="fab fa-html5"></i> [HTML Profile](https://your-html-profile-url)
+
 
 
 
