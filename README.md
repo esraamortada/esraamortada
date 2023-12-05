@@ -9,16 +9,7 @@ Able to utilize my skills and experience to develop efficient and scalable code 
 My Skills:
 HTML,HTML5
 Angular
-
-
 Vue js 
-
-<p align="center">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="50">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-</p>
-
 JavaScript
 Tailwind css
 Jquery
