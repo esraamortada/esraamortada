@@ -14,9 +14,9 @@ Angular
 Vue js 
 
 <p align="center">
-  <img src="your_angular_logo_url_here" alt="Angular Logo" width="50" height="50">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="50">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="your_vuejs_logo_url_here" alt="Vue.js Logo" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/vuejs/brand/main/logo/svg/vuejs-logo.svg" alt="Vue.js Logo" width="50">
 </p>
 
 JavaScript
