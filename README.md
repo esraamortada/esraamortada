@@ -11,6 +11,7 @@ HTML,HTML5
 Angular
 Vue js 
 JavaScript
+Tailwind css
 Jquery
 Git & GitHub
 Webapi
