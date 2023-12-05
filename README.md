@@ -16,7 +16,7 @@ Vue js
 <p align="center">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="50">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/vuejs/brand/main/logo/svg/vuejs-logo.svg" alt="Vue.js Logo" width="50">
+  
 </p>
 
 JavaScript
@@ -33,7 +33,7 @@ SQL Server
 Mongo DB
 
 
-<img src="https://github.com/fluidicon.png" alt="GitHub Icon" width="20" height="20">
+
 
 
 
